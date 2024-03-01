@@ -1,0 +1,59 @@
+*{margin: 0%;
+padding: 0%;
+background-color:white;}
+
+.login{
+    padding-left: 40%;
+    padding-top: 10%;}
+
+    .form{padding: 5px;
+        width: 300px;
+   }
+    .username{ background-color: red;
+        color: white;
+        padding: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;}
+    .password{ background-color: red;
+        color: white;
+        padding: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+button{ 
+    padding: 10px;
+    margin-top: 10px;
+    width: 315px;
+    background-color:green ;
+    color: white;
+}
+button:hover,
+button:focus{color:black;}
+p{padding-top: 5px;}
+.cancel{background-color: aqua;
+    color: blue;
+    margin-top: 30px;
+    width: 80px;
+
+}
+a{padding-left: 100px;
+background-color: white;}
+
+
+nav{background-color: red;
+    border-color:aquamarine;
+  border-width: 3px;
+  width: 315px;
+    border-style: solid;
+                      }
+img{width: 315px;}
+
+.fp{
+    background-color: red;
+    color: white;
+
+}
+#rm{
+    
+
+    color:black
+
+}
